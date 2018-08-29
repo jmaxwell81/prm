@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css>* {&#13;
+    box-sizing: border-box;&#13;
+}&#13;
+&#13;
+.container {&#13;
+  position: relative;&#13;
+  max-width: 500px;  &#13;
+  margin: 0 auto;&#13;
+}&#13;
+&#13;
+.container img {vertical-align: auto;}&#13;
+&#13;
+.container .content {&#13;
+    position: absolute;&#13;
+    bottom: 50%;&#13;
+    background: rgba(0, 0, 0, 0.5); /* Black background with transparency */&#13;
+    color: #f1f1f1;&#13;
+    width: 100%;&#13;
+    padding: 20px;&#13;
+}</css>
+        <glyph/>
+        <id/>
+        <order>0</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">5da96820db542300f6de0181ca961941</sp_column>
+        <sp_widget display_value="HTML">8679ef89cb21120000f8d856634c9c4f</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-29 21:11:20</sys_created_on>
+        <sys_id>75c96820db542300f6de0181ca961901</sys_id>
+        <sys_mod_count>26</sys_mod_count>
+        <sys_name>PRM - Quienes somos 1</sys_name>
+        <sys_package display_value="Partner relationship management" source="x_attme_prm">c7f06ca3dba3170061850a45ca9619b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Partner relationship management">c7f06ca3dba3170061850a45ca9619b7</sys_scope>
+        <sys_update_name>sp_instance_75c96820db542300f6de0181ca961901</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-29 21:44:51</sys_updated_on>
+        <title>PRM - Quienes somos 1</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"html": {
+		"value": "<div class=\"container\"><img style=\"width: 100%;\" src=\"PRM-landing-quienessomos-1.jpg\" alt=\"Nuestra misi&oacute;n\" />\n<div class=\"content\">\n<h1>Nuestra misi&oacute;n</h1>\n<p>En AT&amp;T queremos transformar la manera en la que te conectas. Ofrecemos servicios m&oacute;viles avanzados, navegaci&oacute;n de alta velocidad y soluciones inteligentes para personas y empresas.</p>\n</div>\n</div>",
+		"displayValue": "<div class=\"container\"><img style=\"width: 100%;\" src=\"PRM-landing-quienessomos-1.jpg\" alt=\"Nuestra misi&oacute;n\" />\n<div class=\"content\">\n<h1>Nuestra misi&oacute;n</h1>\n<p>En AT&amp;T queremos transformar la manera en la que te conectas. Ofrecemos servicios m&oacute;viles avanzados, navegaci&oacute;n de alta velocidad y soluciones inteligentes para personas y empresas.</p>\n</div>\n</div>"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=75c96820db542300f6de0181ca961901"/>
+</record_update>
