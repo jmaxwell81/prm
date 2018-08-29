@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <css>section.page {&#13;
+	background-color: $sp-homepage-bg;&#13;
+}&#13;
+section.page, main.body {&#13;
+    padding-top: 0px !important;&#13;
+}&#13;
+</css>
+        <draft>false</draft>
+        <id>prm_index</id>
+        <internal>false</internal>
+        <public>false</public>
+        <roles/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-29 18:44:13</sys_created_on>
+        <sys_id>6a18c4e8dbd02300f6de0181ca961907</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>prm_index</sys_name>
+        <sys_package display_value="Partner relationship management" source="x_attme_prm">c7f06ca3dba3170061850a45ca9619b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Partner relationship management">c7f06ca3dba3170061850a45ca9619b7</sys_scope>
+        <sys_update_name>sp_page_6a18c4e8dbd02300f6de0181ca961907</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-29 18:44:38</sys_updated_on>
+        <title>PRM index</title>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=6a18c4e8dbd02300f6de0181ca961907"/>
+</record_update>
