@@ -6,7 +6,7 @@
         <color>default</color>
         <css>.container {&#13;
     position: relative;&#13;
-    font-family: Arial;&#13;
+ ;&#13;
 }&#13;
 &#13;
 /* Bloque de texto con mensaje inspirador */&#13;
@@ -52,20 +52,20 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-08-29 18:59:08</sys_created_on>
         <sys_id>d18b4c20db142300f6de0181ca96196b</sys_id>
-        <sys_mod_count>56</sys_mod_count>
+        <sys_mod_count>58</sys_mod_count>
         <sys_name>PRM - Landing page - main image</sys_name>
         <sys_package display_value="Partner relationship management" source="x_attme_prm">c7f06ca3dba3170061850a45ca9619b7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Partner relationship management">c7f06ca3dba3170061850a45ca9619b7</sys_scope>
         <sys_update_name>sp_instance_d18b4c20db142300f6de0181ca96196b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-08-29 20:52:27</sys_updated_on>
+        <sys_updated_on>2018-08-29 22:26:27</sys_updated_on>
         <title>PRM - Landing page - main image</title>
         <url/>
         <widget_parameters><![CDATA[{
 	"html": {
-		"value": "<div class=\"container\"><img style=\"width: 100%;\" src=\"PRM-landing-main-image.jpg\" alt=\"ATT\" />\n<div class=\"text-block\">\n<h4>Crea el futuro</h4>\n<p>Un programa &aacute;gil con socios creado para ti</p>\n</div>\n<div><button class=\"btn\">Quiero ser socio</button></div>\n</div>",
-		"displayValue": "<div class=\"container\"><img style=\"width: 100%;\" src=\"PRM-landing-main-image.jpg\" alt=\"ATT\" />\n<div class=\"text-block\">\n<h4>Crea el futuro</h4>\n<p>Un programa &aacute;gil con socios creado para ti</p>\n</div>\n<div><button class=\"btn\">Quiero ser socio</button></div>\n</div>"
+		"value": "<p><img style=\"width: 100%;\" src=\"PRM-landing-main-image.jpg\" alt=\"ATT\" /></p>\n<div class=\"container\">\n<div class=\"text-block\">\n<h4>Crea el futuro</h4>\n<p>Un programa &aacute;gil con socios creado para ti</p>\n</div>\n<div><button class=\"btn\">Quiero ser socio</button></div>\n</div>",
+		"displayValue": "<p><img style=\"width: 100%;\" src=\"PRM-landing-main-image.jpg\" alt=\"ATT\" /></p>\n<div class=\"container\">\n<div class=\"text-block\">\n<h4>Crea el futuro</h4>\n<p>Un programa &aacute;gil con socios creado para ti</p>\n</div>\n<div><button class=\"btn\">Quiero ser socio</button></div>\n</div>"
 	}
 }]]></widget_parameters>
     </sp_instance>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css>/* Bloque de texto*/&#13;
+.text-block {&#13;
+     &#13;
+    background-color: #00afe2;&#13;
+    color: white;&#13;
+    border-radius: 5px;&#13;
+    padding-left: 20px;&#13;
+    padding-right: 20px;&#13;
+}&#13;
+</css>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">5da96820db542300f6de0181ca961941</sp_column>
+        <sp_widget display_value="HTML">8679ef89cb21120000f8d856634c9c4f</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-29 22:11:11</sys_created_on>
+        <sys_id>5e77bce4db542300f6de0181ca96196c</sys_id>
+        <sys_mod_count>29</sys_mod_count>
+        <sys_name>PRM - Quienes somos 3</sys_name>
+        <sys_package display_value="Partner relationship management" source="x_attme_prm">c7f06ca3dba3170061850a45ca9619b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Partner relationship management">c7f06ca3dba3170061850a45ca9619b7</sys_scope>
+        <sys_update_name>sp_instance_5e77bce4db542300f6de0181ca96196c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-29 22:47:59</sys_updated_on>
+        <title>PRM - Quienes somos 3</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"html": {
+		"value": "<h1 style=\"text-align: center;\">Nuestra manera de actuar</h1>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<div class=\"text-block\">\n<h3 style=\"text-align: center;\">Key words</h3>\n<ul>\n<li style=\"text-align: center;\">Accelerate</li>\n<li style=\"text-align: center;\">Innovate</li>\n<li style=\"text-align: center;\">Easy to work with</li>\n<li style=\"text-align: center;\">Growth</li>\n<li style=\"text-align: center;\">Collaboration</li>\n<li style=\"text-align: center;\">Ecosystem</li>\n<li style=\"text-align: center;\">Digital transformation</li>\n</ul>\n</div>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+		"displayValue": "<h1 style=\"text-align: center;\">Nuestra manera de actuar</h1>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<div class=\"text-block\">\n<h3 style=\"text-align: center;\">Key words</h3>\n<ul>\n<li style=\"text-align: center;\">Accelerate</li>\n<li style=\"text-align: center;\">Innovate</li>\n<li style=\"text-align: center;\">Easy to work with</li>\n<li style=\"text-align: center;\">Growth</li>\n<li style=\"text-align: center;\">Collaboration</li>\n<li style=\"text-align: center;\">Ecosystem</li>\n<li style=\"text-align: center;\">Digital transformation</li>\n</ul>\n</div>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=5e77bce4db542300f6de0181ca96196c"/>
+</record_update>
