@@ -6,7 +6,7 @@
         <color>default</color>
         <css>.container {&#13;
     position: relative;&#13;
- ;&#13;
+  &#13;
 }&#13;
 &#13;
 /* Bloque de texto con mensaje inspirador */&#13;
@@ -16,9 +16,11 @@
     left: 100px;&#13;
     background-color: #00afe2;&#13;
     color: white;&#13;
-    border-radius: 5px;&#13;
+    border-radius: 8px;&#13;
+    padding-top: 15px;&#13;
     padding-left: 20px;&#13;
-    padding-right: 20px;&#13;
+    padding-right: 70px;&#13;
+    padding-bottom: 15px;&#13;
 }&#13;
 &#13;
 /* Boton con liga para ser partner */&#13;
@@ -32,7 +34,7 @@
     padding: 12px 24px;&#13;
     border: none;&#13;
     cursor: pointer;&#13;
-    border-radius: 5px;&#13;
+    border-radius: 8px;&#13;
     text-align: center;&#13;
 }&#13;
 &#13;
@@ -45,27 +47,27 @@
         <order>0</order>
         <roles/>
         <short_description/>
-        <size>md</size>
+        <size>lg</size>
         <sp_column display_value="1">e57a0c20db142300f6de0181ca961991</sp_column>
         <sp_widget display_value="HTML">8679ef89cb21120000f8d856634c9c4f</sp_widget>
         <sys_class_name>sp_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-08-29 18:59:08</sys_created_on>
         <sys_id>d18b4c20db142300f6de0181ca96196b</sys_id>
-        <sys_mod_count>58</sys_mod_count>
+        <sys_mod_count>83</sys_mod_count>
         <sys_name>PRM - Landing page - main image</sys_name>
         <sys_package display_value="Partner relationship management" source="x_attme_prm">c7f06ca3dba3170061850a45ca9619b7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Partner relationship management">c7f06ca3dba3170061850a45ca9619b7</sys_scope>
         <sys_update_name>sp_instance_d18b4c20db142300f6de0181ca96196b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-08-29 22:26:27</sys_updated_on>
+        <sys_updated_on>2018-08-30 04:29:45</sys_updated_on>
         <title>PRM - Landing page - main image</title>
         <url/>
         <widget_parameters><![CDATA[{
 	"html": {
-		"value": "<p><img style=\"width: 100%;\" src=\"PRM-landing-main-image.jpg\" alt=\"ATT\" /></p>\n<div class=\"container\">\n<div class=\"text-block\">\n<h4>Crea el futuro</h4>\n<p>Un programa &aacute;gil con socios creado para ti</p>\n</div>\n<div><button class=\"btn\">Quiero ser socio</button></div>\n</div>",
-		"displayValue": "<p><img style=\"width: 100%;\" src=\"PRM-landing-main-image.jpg\" alt=\"ATT\" /></p>\n<div class=\"container\">\n<div class=\"text-block\">\n<h4>Crea el futuro</h4>\n<p>Un programa &aacute;gil con socios creado para ti</p>\n</div>\n<div><button class=\"btn\">Quiero ser socio</button></div>\n</div>"
+		"value": "<p><img style=\"width: 100%;\" src=\"PRM-landing-main-image.jpg\" alt=\"ATT\" /></p>\n<div class=\"container\">\n<div class=\"text-block\">\n<h1>Crea el futuro</h1>\n<h5>Un programa &aacute;gil de canales con socios creado para ti</h5>\n</div>\n<div><button class=\"btn\">Quiero ser socio</button></div>\n</div>",
+		"displayValue": "<p><img style=\"width: 100%;\" src=\"PRM-landing-main-image.jpg\" alt=\"ATT\" /></p>\n<div class=\"container\">\n<div class=\"text-block\">\n<h1>Crea el futuro</h1>\n<h5>Un programa &aacute;gil de canales con socios creado para ti</h5>\n</div>\n<div><button class=\"btn\">Quiero ser socio</button></div>\n</div>"
 	}
 }]]></widget_parameters>
     </sp_instance>

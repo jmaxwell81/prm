@@ -2,7 +2,7 @@
 <record_update table="sp_page">
     <sp_page action="INSERT_OR_UPDATE">
         <css>section.page {&#13;
-	background-color: $sp-homepage-bg;&#13;
+	background-color: #f5f7f6;&#13;
 }&#13;
 section.page, main.body {&#13;
     padding-top: 0px !important;&#13;
@@ -17,14 +17,14 @@ section.page, main.body {&#13;
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-08-29 18:45:45</sys_created_on>
         <sys_id>b878c0acdbd02300f6de0181ca9619d0</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>prm_landing</sys_name>
         <sys_package display_value="Partner relationship management" source="x_attme_prm">c7f06ca3dba3170061850a45ca9619b7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Partner relationship management">c7f06ca3dba3170061850a45ca9619b7</sys_scope>
         <sys_update_name>sp_page_b878c0acdbd02300f6de0181ca9619d0</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-08-29 21:50:15</sys_updated_on>
+        <sys_updated_on>2018-08-30 00:14:18</sys_updated_on>
         <title>PRM landing</title>
     </sp_page>
     <sys_translated_text action="delete_multiple" query="documentkey=b878c0acdbd02300f6de0181ca9619d0"/>

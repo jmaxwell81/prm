@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css>.container {&#13;
+    position: relative;&#13;
+ ;&#13;
+}&#13;
+&#13;
+/* Bloque de texto con mensaje inspirador */&#13;
+.text-block {&#13;
+    position: absolute;&#13;
+    bottom: 150px;&#13;
+    right: 100px;&#13;
+    background: rgba(0, 0, 0, 0.5); /* Black background with transparency */&#13;
+    color: #f1f1f1;&#13;
+    width: 600px;&#13;
+    border-radius: 15px;&#13;
+    padding-left: 20px;&#13;
+    padding-right: 20px;&#13;
+    text-align: center;&#13;
+}&#13;
+</css>
+        <glyph/>
+        <id/>
+        <order>0</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">6470412cdb542300f6de0181ca961958</sp_column>
+        <sp_widget display_value="HTML">8679ef89cb21120000f8d856634c9c4f</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-29 23:14:33</sys_created_on>
+        <sys_id>6af54120db942300f6de0181ca9619bb</sys_id>
+        <sys_mod_count>26</sys_mod_count>
+        <sys_name>PRM - landing - Mejores juntos</sys_name>
+        <sys_package display_value="Partner relationship management" source="x_attme_prm">c7f06ca3dba3170061850a45ca9619b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Partner relationship management">c7f06ca3dba3170061850a45ca9619b7</sys_scope>
+        <sys_update_name>sp_instance_6af54120db942300f6de0181ca9619bb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-30 04:03:51</sys_updated_on>
+        <title>PRM - landing - Mejores juntos</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"html": {
+		"value": "<p><img style=\"width: 100%;\" src=\"PRM-landing-mejores-juntos.jpg\" alt=\"ATT\" /></p>\n<div class=\"text-block\">\n<h1>Mejores <span style=\"color: #179ed7;\">juntos</span></h1>\n<p>Crea soluciones para tus clientes hechas a la medida y con el respaldo de la marca AT&amp;T. El poder de la red AT&amp;T integrado a las soluciones que ofreces.</p>\n</div>",
+		"displayValue": "<p><img style=\"width: 100%;\" src=\"PRM-landing-mejores-juntos.jpg\" alt=\"ATT\" /></p>\n<div class=\"text-block\">\n<h1>Mejores <span style=\"color: #179ed7;\">juntos</span></h1>\n<p>Crea soluciones para tus clientes hechas a la medida y con el respaldo de la marca AT&amp;T. El poder de la red AT&amp;T integrado a las soluciones que ofreces.</p>\n</div>"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=6af54120db942300f6de0181ca9619bb"/>
+</record_update>

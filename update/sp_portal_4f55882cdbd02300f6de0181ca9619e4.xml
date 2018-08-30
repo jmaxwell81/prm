@@ -4,7 +4,7 @@
         <css_variables>$brand-primary: #428bca;
 $body-bg: #f0f3f4;
 $state-success-text: #5cb85c;
-$sp-homepage-bg: #fff;
+$sp-homepage-bg: #f5f7f6;
 $sp-navbar-divider-color: #b5d6f8;
 $text-color: #717171;
 $sp-logo-margin-y: 2px;
@@ -52,14 +52,14 @@ $text-muted: #979797;
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-08-29 18:34:43</sys_created_on>
         <sys_id>4f55882cdbd02300f6de0181ca9619e4</sys_id>
-        <sys_mod_count>17</sys_mod_count>
+        <sys_mod_count>19</sys_mod_count>
         <sys_name>PRM portal</sys_name>
         <sys_package display_value="Partner relationship management" source="x_attme_prm">c7f06ca3dba3170061850a45ca9619b7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Partner relationship management">c7f06ca3dba3170061850a45ca9619b7</sys_scope>
         <sys_update_name>sp_portal_4f55882cdbd02300f6de0181ca9619e4</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-08-29 21:08:47</sys_updated_on>
+        <sys_updated_on>2018-08-30 00:13:44</sys_updated_on>
         <theme display_value="Stock">79315153cb33310000f8d856634c9c4b</theme>
         <title>PRM portal</title>
         <url_suffix>prm</url_suffix>
