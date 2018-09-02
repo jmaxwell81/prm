@@ -3,22 +3,22 @@
     <sp_column action="INSERT_OR_UPDATE">
         <class_name/>
         <order>1</order>
-        <size>12</size>
+        <size>6</size>
         <size_lg/>
         <size_sm/>
         <size_xs/>
-        <sp_row display_value="2">ac70412cdb542300f6de0181ca961956</sp_row>
+        <sp_row display_value="1">01c8abd1db502300f6de0181ca961943</sp_row>
         <sys_class_name>sp_column</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-08-29 22:50:23</sys_created_on>
-        <sys_id>6470412cdb542300f6de0181ca961958</sys_id>
+        <sys_created_on>2018-09-01 19:01:13</sys_created_on>
+        <sys_id>c5c8abd1db502300f6de0181ca961944</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>1</sys_name>
         <sys_package display_value="Partner relationship management" source="x_attme_prm">c7f06ca3dba3170061850a45ca9619b7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Partner relationship management">c7f06ca3dba3170061850a45ca9619b7</sys_scope>
-        <sys_update_name>sp_column_6470412cdb542300f6de0181ca961958</sys_update_name>
+        <sys_update_name>sp_column_c5c8abd1db502300f6de0181ca961944</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-08-29 22:50:23</sys_updated_on>
+        <sys_updated_on>2018-09-01 19:01:13</sys_updated_on>
     </sp_column>
 </record_update>

@@ -35,20 +35,20 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-08-29 23:14:33</sys_created_on>
         <sys_id>6af54120db942300f6de0181ca9619bb</sys_id>
-        <sys_mod_count>34</sys_mod_count>
-        <sys_name>PRM - landing - Mejores juntos</sys_name>
+        <sys_mod_count>38</sys_mod_count>
+        <sys_name>PRM - Landing page -  Mejores juntos</sys_name>
         <sys_package display_value="Partner relationship management" source="x_attme_prm">c7f06ca3dba3170061850a45ca9619b7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Partner relationship management">c7f06ca3dba3170061850a45ca9619b7</sys_scope>
         <sys_update_name>sp_instance_6af54120db942300f6de0181ca9619bb</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-09-01 17:47:20</sys_updated_on>
-        <title>PRM - landing - Mejores juntos</title>
+        <sys_updated_on>2018-09-01 19:16:16</sys_updated_on>
+        <title>PRM - Landing page -  Mejores juntos</title>
         <url/>
         <widget_parameters><![CDATA[{
 	"html": {
-		"value": "<p><img style=\"width: 100%;\" src=\"PRM-landing-mejores-juntos.jpg\" alt=\"ATT\" /></p>\n<div class=\"text-block\">\n<h1>Mejores <span style=\"color: #179ed7;\">juntos</span></h1>\n<p>Crea soluciones para tus clientes hechas a la medida y con el respaldo de la marca AT&amp;T. El poder de la red AT&amp;T integrado a las soluciones que ofreces.</p>\n</div>",
-		"displayValue": "<p><img style=\"width: 100%;\" src=\"PRM-landing-mejores-juntos.jpg\" alt=\"ATT\" /></p>\n<div class=\"text-block\">\n<h1>Mejores <span style=\"color: #179ed7;\">juntos</span></h1>\n<p>Crea soluciones para tus clientes hechas a la medida y con el respaldo de la marca AT&amp;T. El poder de la red AT&amp;T integrado a las soluciones que ofreces.</p>\n</div>"
+		"value": "<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<div class=\"text-block\">\n<h1><strong>Mejores <span style=\"color: #179ed7;\">juntos</span></strong></h1>\n<p>Crea soluciones para tus clientes hechas a la medida y con el respaldo de la marca AT&amp;T. El poder de la red AT&amp;T integrado a las soluciones que ofreces.</p>\n</div>",
+		"displayValue": "<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<div class=\"text-block\">\n<h1><strong>Mejores <span style=\"color: #179ed7;\">juntos</span></strong></h1>\n<p>Crea soluciones para tus clientes hechas a la medida y con el respaldo de la marca AT&amp;T. El poder de la red AT&amp;T integrado a las soluciones que ofreces.</p>\n</div>"
 	}
 }]]></widget_parameters>
     </sp_instance>
