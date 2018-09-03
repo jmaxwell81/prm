@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css>.centered {&#13;
+    display: block;&#13;
+    text-align: center;&#13;
+    background-color: #FFFFFF;&#13;
+    height: 200px;&#13;
+    border-radius: 8px;   &#13;
+    padding-top: 15px;&#13;
+    padding-left: 15px;&#13;
+    padding-right: 15px;&#13;
+    padding-bottom: 15px;&#13;
+}</css>
+        <glyph/>
+        <id/>
+        <order>0</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">6edec57ddb982300f6de0181ca961964</sp_column>
+        <sp_widget display_value="HTML">8679ef89cb21120000f8d856634c9c4f</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-02 21:14:11</sys_created_on>
+        <sys_id>5ac055bddb982300f6de0181ca961989</sys_id>
+        <sys_mod_count>54</sys_mod_count>
+        <sys_name>PRM - Landing page - Opinion partner 1</sys_name>
+        <sys_package display_value="Partner relationship management" source="x_attme_prm">c7f06ca3dba3170061850a45ca9619b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Partner relationship management">c7f06ca3dba3170061850a45ca9619b7</sys_scope>
+        <sys_update_name>sp_instance_5ac055bddb982300f6de0181ca961989</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-03 17:28:24</sys_updated_on>
+        <title>PRM - Landing page - Opinion partner 1</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"html": {
+		"value": "<div class=\"centered\">\n<h3><strong><span style=\"color: #179ed7;\">Partner 1:</span></strong></h3>\n<br />\n<h5>Lorem ipsem dolor sit amet consectetuer adipiscing elit sed do eiusmod tempor do et. Praesent a ante id nunc varius aliquam. Phasellus malesuada pulvinar arcu, at varius nisi dapibus ut. Cras dignissim.</h5>\n</div>\n<p>&nbsp;</p>\n<p style=\"text-align: left; padding-left: 60px;\"><em>Texto de la fuente de la opini&oacute;n (a&ntilde;o y lugar).</em></p>",
+		"displayValue": "<div class=\"centered\">\n<h3><strong><span style=\"color: #179ed7;\">Partner 1:</span></strong></h3>\n<br />\n<h5>Lorem ipsem dolor sit amet consectetuer adipiscing elit sed do eiusmod tempor do et. Praesent a ante id nunc varius aliquam. Phasellus malesuada pulvinar arcu, at varius nisi dapibus ut. Cras dignissim.</h5>\n</div>\n<p>&nbsp;</p>\n<p style=\"text-align: left; padding-left: 60px;\"><em>Texto de la fuente de la opini&oacute;n (a&ntilde;o y lugar).</em></p>"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=5ac055bddb982300f6de0181ca961989"/>
+</record_update>

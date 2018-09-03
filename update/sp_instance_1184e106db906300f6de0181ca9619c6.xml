@@ -11,21 +11,21 @@
         <roles/>
         <short_description/>
         <size>md</size>
-        <sp_column display_value="1">922df4f1db982300f6de0181ca9619e2</sp_column>
+        <sp_column display_value="1">4374e106db906300f6de0181ca961977</sp_column>
         <sp_widget display_value="HTML">8679ef89cb21120000f8d856634c9c4f</sp_widget>
         <sys_class_name>sp_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-09-02 19:48:37</sys_created_on>
-        <sys_id>813db439db582300f6de0181ca9619ab</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>PRM - Landing page - Espacio 3</sys_name>
+        <sys_created_on>2018-09-03 17:18:53</sys_created_on>
+        <sys_id>1184e106db906300f6de0181ca9619c6</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>PRM - landing page - footer espacio 1</sys_name>
         <sys_package display_value="Partner relationship management" source="x_attme_prm">c7f06ca3dba3170061850a45ca9619b7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Partner relationship management">c7f06ca3dba3170061850a45ca9619b7</sys_scope>
-        <sys_update_name>sp_instance_813db439db582300f6de0181ca9619ab</sys_update_name>
+        <sys_update_name>sp_instance_1184e106db906300f6de0181ca9619c6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-09-02 19:51:19</sys_updated_on>
-        <title>PRM - Landing page - Espacio 3</title>
+        <sys_updated_on>2018-09-03 17:39:33</sys_updated_on>
+        <title>PRM - landing page - footer espacio 1</title>
         <url/>
         <widget_parameters><![CDATA[{
 	"html": {
@@ -34,5 +34,5 @@
 	}
 }]]></widget_parameters>
     </sp_instance>
-    <sys_translated_text action="delete_multiple" query="documentkey=813db439db582300f6de0181ca9619ab"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=1184e106db906300f6de0181ca9619c6"/>
 </record_update>

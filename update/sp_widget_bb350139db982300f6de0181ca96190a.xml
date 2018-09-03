@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_widget">
+    <sp_widget action="INSERT_OR_UPDATE">
+        <client_script><![CDATA[function() {  /* widget controller */  var c = this;}]]></client_script>
+        <controller_as>c</controller_as>
+        <css>/* TOP ICON ---------- */&#13;
+&#13;
+a.top_icon {&#13;
+  display: block;&#13;
+  padding: 20px;&#13;
+  text-align: center;&#13;
+  background-color: #FFFFFF;&#13;
+  height: 330px;&#13;
+}&#13;
+&#13;
+a.top_icon .fa {&#13;
+  display: block;&#13;
+  text-align: center;&#13;
+}&#13;
+&#13;
+a.top_icon h3 {&#13;
+  font-weight: 300;&#13;
+  padding: 0;&#13;
+  margin: 0 0 10px 0;&#13;
+}&#13;
+&#13;
+/* CIRCLE ICON ---------- */&#13;
+&#13;
+a.circle_icon {&#13;
+  display: block;&#13;
+  padding: 20px 0px 20px 70px;&#13;
+  position: relative;&#13;
+}&#13;
+&#13;
+a.circle_icon .fa {&#13;
+  position:absolute;&#13;
+  left: 0px;&#13;
+  top: 10px;&#13;
+}&#13;
+&#13;
+a.circle_icon h3 {&#13;
+  font-weight: 300;&#13;
+  padding: 0;&#13;
+  margin: 0 0 10px 0;&#13;
+}&#13;
+&#13;
+/* COLOR BOX ---------- */&#13;
+&#13;
+&#13;
+&#13;
+a.color_box {&#13;
+  display: block;&#13;
+  position: relative;&#13;
+  padding: 20px 20px 20px 82px;&#13;
+  border-radius: 4px;&#13;
+  margin-bottom: 20px;&#13;
+}&#13;
+&#13;
+a.color_box .fa {&#13;
+  position:absolute;&#13;
+  left: 20px;&#13;
+  top: 20px;&#13;
+  width:42px;&#13;
+  text-align: center;&#13;
+}&#13;
+&#13;
+a.color_box h3 {&#13;
+  font-weight: 300;&#13;
+  padding: 0;&#13;
+  margin: 0 0 10px 0;&#13;
+}&#13;
+&#13;
+/* Background image ---------- */&#13;
+&#13;
+&#13;
+&#13;
+a.background_image {&#13;
+  display: block;&#13;
+  position: relative;&#13;
+  padding: 0px 0px 0px 0px;&#13;
+  border-radius: 4px;&#13;
+  margin-bottom: 0px;&#13;
+}&#13;
+&#13;
+img.background_image {&#13;
+  display: block;&#13;
+  position: relative;&#13;
+  padding: 0px 0px 0px 0px;&#13;
+  border-radius: 4px;&#13;
+}&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+.icon-link-background-primary {&#13;
+  background-color: #FFFFFF;&#13;
+}&#13;
+&#13;
+.icon-link-background-info {&#13;
+  background-color: $brand-info;&#13;
+}&#13;
+&#13;
+.icon-link-background-success {&#13;
+  background-color: $brand-success;&#13;
+}&#13;
+&#13;
+.icon-link-background-warning {&#13;
+  background-color: $brand-warning;&#13;
+}&#13;
+&#13;
+.icon-link-background-danger {&#13;
+  background-color: $brand-danger;&#13;
+}&#13;
+&#13;
+.icon-link-background-default {&#13;
+  background-color: #ffffff;//$brand-default;&#13;
+  border-color: #ddd;&#13;
+  border: 1px solid #ddd;&#13;
+}&#13;
+&#13;
+.text-primary {&#13;
+  color: #fff;//$brand-default;&#13;
+  &#13;
+  &amp;:hover {&#13;
+    color: darken(#fff, 20%);&#13;
+  }&#13;
+}&#13;
+&#13;
+.text-info {&#13;
+  color: $brand-info;&#13;
+  &#13;
+  &amp;:hover {&#13;
+    color: darken($brand-info, 40%);&#13;
+  }&#13;
+}&#13;
+&#13;
+.text-success {&#13;
+  color: $brand-success;&#13;
+  &#13;
+  &amp;:hover {&#13;
+    color: darken($brand-success, 20%);&#13;
+  }&#13;
+}&#13;
+&#13;
+.text-warning {&#13;
+  color: $brand-warning;&#13;
+  &#13;
+  &amp;:hover {&#13;
+    color: darken($brand-warning, 20%);&#13;
+  }&#13;
+}&#13;
+&#13;
+.text-danger {&#13;
+  color: #000000;&#13;
+  &#13;
+  &amp;:hover {&#13;
+    color: #28b1d3;&#13;
+  }&#13;
+}&#13;
+&#13;
+.text-default {&#13;
+  color: $brand-primary;&#13;
+  &#13;
+  &amp;:hover {&#13;
+    color: darken($brand-primary, 20%);&#13;
+  }&#13;
+}</css>
+        <data_table>sp_instance_link</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list>title,short_description,glyph,class_name,type,sc_category,url,kb_article,kb_topic,kb_category,sc_cat_item,sp_page,color</field_list>
+        <has_preview>false</has_preview>
+        <id/>
+        <internal>false</internal>
+        <link/>
+        <name>PRM Icon link Advanced</name>
+        <option_schema>[{"name":"link_template","section":"Presentation","label":"Template","type":"choice","choices":[{"label":"Top Icon","value":"Top Icon"},{"label":"Circle Icon","value":"Circle Icon"},{"label":"Color Box","value":"Color Box"},{"label":"Color Box Image","value":"Color Box Image"},{"label":"Circle Icon Image","value":"Circle Icon Image"},{"label":"Top Icon Image","value":"Top Icon Image"},{"label":"Background image","value":"Background image"}]},{"name":"group","default_value":"false","section":"Presentation","label":"Group Condition","type":"string"},{"name":"icon","section":"Presentation","label":"Icon","type":"string"},{"name":"target","section":"Behavior","default_value":"_self","label":"Target","type":"choice","choices":[{"label":"_blank","value":"_blank"},{"label":"_self","value":"_self"},{"label":"_top","value":"_top"},{"label":"_parent","value":"_parent"}]}]</option_schema>
+        <public>true</public>
+        <roles/>
+        <script><![CDATA[(function(){
+	var gr = $sp.getInstanceRecord();
+	data.href = $sp.getMenuHREF(gr);
+	data.target = options.target || "";
+	data.group = gs.getUser().isMemberOf(options.group);
+
+
+	
+})();]]></script>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-02 20:23:46</sys_created_on>
+        <sys_id>bb350139db982300f6de0181ca96190a</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>PRM Icon link Advanced</sys_name>
+        <sys_package display_value="Partner relationship management" source="x_attme_prm">c7f06ca3dba3170061850a45ca9619b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Partner relationship management">c7f06ca3dba3170061850a45ca9619b7</sys_scope>
+        <sys_update_name>sp_widget_bb350139db982300f6de0181ca96190a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-02 20:46:25</sys_updated_on>
+        <template><![CDATA[<div ng-if="::(data.group == true && options.group != 'false')">
+<div>
+  
+   <!--// Background image -->
+  <a ng-if="::(options.link_template == 'Background image')" ng-href="{{::data.href}}" class="background_image" target="{{::data.target}}">
+    <img src='{{::options.icon}}' width='100%' class="background_image">
+   
+  </a>
+  <!--// Top Icon -->
+  <a ng-if="::(options.link_template == 'Top Icon' || !options.link_template)" ng-href="{{::data.href}}" class="top_icon {{::options.class_name}}" target="{{::data.target}}">
+    <div class="m-b fa fa-{{::options.glyph}} fa-4x {{::options.class_name}} text-{{::options.color}}"></div>
+    <h3>{{::options.title}}</h3>
+    <span class="text-muted">{{::options.short_description}}</span>
+  </a>
+  
+  <!--// Top Icon Image -->
+  <a ng-if="::(options.link_template == 'Top Icon Image' || !options.link_template)" ng-href="{{::data.href}}" class="top_icon {{::options.class_name}}" target="{{::data.target}}">
+    <img src='{{::options.icon}}' class="m-b fa fa-4x">
+    <h3>{{::options.title}}</h3>
+    <span class="text-muted">{{::options.short_description}}</span>
+  </a>
+
+  <!--// Circle Icon -->
+  <a ng-if="::(options.link_template == 'Circle Icon')" ng-href="{{::data.href}}" class="circle_icon {{::options.class_name}} text-{{::options.color}}" target="{{::data.target}}">
+    <span class="fa fa-stack fa-2x">
+      <i class="fa fa-circle fa-stack-2x"></i>
+      <i class="fa fa-{{::options.glyph}} fa-stack-1x fa-inverse"></i>
+      
+    </span>
+    <h3>{{::options.title}}</h3>
+    <span class="text-muted">{{::options.short_description}}</span>
+  </a>
+  
+  <!--// Circle Icon Image -->
+  <a ng-if="::(options.link_template == 'Circle Icon Image')" ng-href="{{::data.href}}" class="circle_icon {{::options.class_name}} text-{{::options.color}}" target="{{::data.target}}">
+    <span class="fa fa-stack fa-2x">
+      
+      <img src='{{::options.icon}}' class="fa-stack-1x fa-inverse">
+    </span>
+    <h3>{{::options.title}}</h3>
+    <span class="text-muted">{{::options.short_description}}</span>
+  </a>
+
+  <!--// Color Box -->
+  <a ng-if="::(options.link_template == 'Color Box')" ng-href="{{::data.href}}" class="color_box {{::options.class_name}} icon-link-background-{{::options.color}} text-{{::options.color}}" target="{{::data.target}}">
+    <div class="fa fa-{{::options.glyph}} fa-3x {{::options.class_name}}"></div>
+    <h3>{{::options.title}}</h3>
+    <span>{{::options.short_description}}</span>
+  </a>
+  <!--// Color Box Image -->
+  <a ng-if="::(options.link_template == 'Color Box Image')" ng-href="{{::data.href}}" class="color_box {{::options.class_name}} icon-link-background-{{::options.color}} text-{{::options.color}}" target="{{::data.target}}">
+    <img src='{{::options.icon}}' class="fa fa-3x">
+    <h3>{{::options.title}}</h3>
+    <span>{{::options.short_description}}</span>
+  </a>
+</div>
+  </div>
+
+
+  <div ng-if="::(options.group == 'false')">
+ 
+  <!--// Background image -->
+  <a ng-if="::(options.link_template == 'Background image')" ng-href="{{::data.href}}" class="background_image" target="{{::data.target}}">
+    <img src='{{::options.icon}}' width='100%' class="background_image">
+   
+  </a>
+  
+  <!--// Top Icon -->
+  <a ng-if="::(options.link_template == 'Top Icon' || !options.link_template)" ng-href="{{::data.href}}" class="top_icon {{::options.class_name}}" target="{{::data.target}}">
+    <div class="m-b fa fa-{{::options.glyph}} fa-4x {{::options.class_name}} text-{{::options.color}}"></div>
+    <h3>{{::options.title}}</h3>
+    <span class="text-muted">{{::options.short_description}}</span>
+  </a>
+
+  <!--// Top Icon Image -->
+  <a ng-if="::(options.link_template == 'Top Icon Image' || !options.link_template)" ng-href="{{::data.href}}" class="top_icon {{::options.class_name}}" target="{{::data.target}}">
+    <img src='{{::options.icon}}' class="fa-1x">
+    <br><br>
+    <h3>{{::options.title}}</h3>
+    <span class="text-muted">{{::options.short_description}}</span>
+  </a>
+  
+  <!--// Circle Icon -->
+  <a ng-if="::(options.link_template == 'Circle Icon')" ng-href="{{::data.href}}" class="circle_icon {{::options.class_name}} text-{{::options.color}}" target="{{::data.target}}">
+    <span class="fa fa-stack fa-2x">
+      <i class="fa fa-circle fa-stack-2x"></i>
+      <i class="fa fa-{{::options.glyph}} fa-stack-1x fa-inverse"></i>
+      
+    </span>
+    <h3>{{::options.title}}</h3>
+    <span class="text-muted">{{::options.short_description}}</span>
+  </a>
+  
+  <!--// Circle Icon Image -->
+  <a ng-if="::(options.link_template == 'Circle Icon Image')" ng-href="{{::data.href}}" class="circle_icon {{::options.class_name}} text-{{::options.color}}" target="{{::data.target}}">
+    <span class="fa fa-stack fa-2x">
+      
+      <img src='{{::options.icon}}' class="fa-stack-1x fa-inverse">
+    </span>
+    <h3>{{::options.title}}</h3>
+    <span class="text-muted">{{::options.short_description}}</span>
+  </a>
+
+  <!--// Color Box -->
+  <a ng-if="::(options.link_template == 'Color Box')" ng-href="{{::data.href}}" class="color_box {{::options.class_name}} icon-link-background-{{::options.color}} text-{{::options.color}}" target="{{::data.target}}">
+    <div class="fa fa-{{::options.glyph}} fa-3x {{::options.class_name}}"></div>
+    <h3>{{::options.title}}</h3>
+    <span>{{::options.short_description}}</span>
+  </a>
+  
+  <!--// Color Box Image -->
+  <a ng-if="::(options.link_template == 'Color Box Image')" ng-href="{{::data.href}}" class="color_box {{::options.class_name}} icon-link-background-{{::options.color}} text-{{::options.color}}" target="{{::data.target}}">
+    <img src='{{::options.icon}}' class="fa fa-3x">
+    <h3>{{::options.title}}</h3>
+    <span>{{::options.short_description}}</span>
+  </a>
+</div>
+]]></template>
+    </sp_widget>
+</record_update>
