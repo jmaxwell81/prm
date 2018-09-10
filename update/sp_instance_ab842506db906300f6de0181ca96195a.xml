@@ -10,7 +10,7 @@
 }</css>
         <glyph/>
         <id/>
-        <order>1</order>
+        <order>0</order>
         <roles/>
         <short_description/>
         <size>md</size>
@@ -20,20 +20,20 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-09-03 17:19:02</sys_created_on>
         <sys_id>ab842506db906300f6de0181ca96195a</sys_id>
-        <sys_mod_count>9</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_name>PRM - landing page - footer espacio 3</sys_name>
         <sys_package display_value="Partner relationship management" source="x_attme_prm">c7f06ca3dba3170061850a45ca9619b7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Partner relationship management">c7f06ca3dba3170061850a45ca9619b7</sys_scope>
         <sys_update_name>sp_instance_ab842506db906300f6de0181ca96195a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-09-03 18:00:50</sys_updated_on>
+        <sys_updated_on>2018-09-03 20:09:00</sys_updated_on>
         <title>PRM - landing page - footer espacio 3</title>
         <url/>
         <widget_parameters><![CDATA[{
 	"html": {
-		"value": "<div class=\"text\">\n<p>&nbsp;</p>\n<p>Siguenos:</p>\n<p><img src=\"twitter-thumbnail.png\" alt=\"Nuestra misi&oacute;n\" /> &ensp; <img src=\"facebook-thumbnail.png\" alt=\"Nuestra misi&oacute;n\" /></p>\n</div>",
-		"displayValue": "<div class=\"text\">\n<p>&nbsp;</p>\n<p>Siguenos:</p>\n<p><img src=\"twitter-thumbnail.png\" alt=\"Nuestra misi&oacute;n\" /> &ensp; <img src=\"facebook-thumbnail.png\" alt=\"Nuestra misi&oacute;n\" /></p>\n</div>"
+		"value": "<div class=\"text\">\n<p>&nbsp;</p>\n<p>Siguenos:</p>\n<p><a href=\"https://twitter.com/attmx?lang=es\"><img src=\"twitter-thumbnail.png\" alt=\"Twitter\" /> </a> &ensp; <a href=\"https://www.facebook.com/attmx/\"><img src=\"facebook-thumbnail.png\" alt=\"Facebook\" /></a></p>\n</div>",
+		"displayValue": "<div class=\"text\">\n<p>&nbsp;</p>\n<p>Siguenos:</p>\n<p><a href=\"https://twitter.com/attmx?lang=es\"><img src=\"twitter-thumbnail.png\" alt=\"Twitter\" /> </a> &ensp; <a href=\"https://www.facebook.com/attmx/\"><img src=\"facebook-thumbnail.png\" alt=\"Facebook\" /></a></p>\n</div>"
 	}
 }]]></widget_parameters>
     </sp_instance>
