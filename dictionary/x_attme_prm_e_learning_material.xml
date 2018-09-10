@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="kb_knowledge" label="E-learning material" max_length="40" name="x_attme_prm_e_learning_material" type="collection"/>
+</database>
