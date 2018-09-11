@@ -17,7 +17,7 @@
         <name>cmdb_ci_endpoint_acl</name>
         <order>100</order>
         <override_menu_roles>false</override_menu_roles>
-        <query>/prm?sysparm_stack=no</query>
+        <query>/prm</query>
         <report/>
         <roles/>
         <survey/>
@@ -28,7 +28,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>662e72d8dba02300f6de0181ca9619a6</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Portal</sys_name>
         <sys_overrides/>
         <sys_package display_value="Partner relationship management" source="x_attme_prm">c7f06ca3dba3170061850a45ca9619b7</sys_package>
@@ -36,11 +36,11 @@
         <sys_scope display_value="Partner relationship management">c7f06ca3dba3170061850a45ca9619b7</sys_scope>
         <sys_update_name>sys_app_module_662e72d8dba02300f6de0181ca9619a6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-09-10 23:38:31</sys_updated_on>
+        <sys_updated_on>2018-09-10 23:58:46</sys_updated_on>
         <timeline_page/>
         <title>Portal</title>
         <uncancelable>false</uncancelable>
         <view_name/>
-        <window_name/>
+        <window_name>prm</window_name>
     </sys_app_module>
 </record_update>
