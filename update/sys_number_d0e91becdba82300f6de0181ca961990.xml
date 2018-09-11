@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_attme_prm_quiz_result">x_attme_prm_quiz_result</category>
+        <maximum_digits>7</maximum_digits>
+        <number>0</number>
+        <prefix>QURST</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-11 20:16:26</sys_created_on>
+        <sys_id>d0e91becdba82300f6de0181ca961990</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>QURST</sys_name>
+        <sys_package display_value="Partner relationship management" source="x_attme_prm">c7f06ca3dba3170061850a45ca9619b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Partner relationship management">c7f06ca3dba3170061850a45ca9619b7</sys_scope>
+        <sys_update_name>sys_number_d0e91becdba82300f6de0181ca961990</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-11 20:16:26</sys_updated_on>
+    </sys_number>
+</record_update>

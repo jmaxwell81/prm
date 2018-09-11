@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>This property contains the allowed type of questions in a exam (comma separated)</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_attme_prm.att.prm.allowedDataTypesInExam</name>
+        <read_roles/>
+        <suffix>att.prm.allowedDataTypesInExam</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-11 16:40:42</sys_created_on>
+        <sys_id>6e38e224db682300f6de0181ca961981</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_attme_prm.att.prm.allowedDataTypesInExam</sys_name>
+        <sys_package display_value="Partner relationship management" source="x_attme_prm">c7f06ca3dba3170061850a45ca9619b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Partner relationship management">c7f06ca3dba3170061850a45ca9619b7</sys_scope>
+        <sys_update_name>sys_properties_6e38e224db682300f6de0181ca961981</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-11 16:40:42</sys_updated_on>
+        <type>string</type>
+        <value>scale</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=6e38e224db682300f6de0181ca961981"/>
+</record_update>
