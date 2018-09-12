@@ -4,7 +4,27 @@
         <active>true</active>
         <class_name/>
         <color>default</color>
-        <css/>
+        <css>* {&#13;
+    box-sizing: border-box;&#13;
+}&#13;
+&#13;
+&#13;
+&#13;
+.container {&#13;
+  position: relative;&#13;
+  width: 90%;  &#13;
+  margin: auto;&#13;
+  vertical-align: middle&#13;
+}&#13;
+&#13;
+.container .content {&#13;
+    position: absolute;&#13;
+    bottom: 100px;&#13;
+    background: rgba(0, 0, 0, 0.5); /* Black background with transparency */&#13;
+    color: #f1f1f1;&#13;
+    width: 100%;&#13;
+    padding: 20px;&#13;
+}</css>
         <glyph/>
         <id/>
         <order>0</order>
@@ -17,20 +37,20 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-08-29 22:30:56</sys_created_on>
         <sys_id>23fbb068db542300f6de0181ca961920</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>11</sys_mod_count>
         <sys_name>PRM - Landing page - Quienes somos 4</sys_name>
         <sys_package display_value="Partner relationship management" source="x_attme_prm">c7f06ca3dba3170061850a45ca9619b7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Partner relationship management">c7f06ca3dba3170061850a45ca9619b7</sys_scope>
         <sys_update_name>sp_instance_23fbb068db542300f6de0181ca961920</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-09-01 19:01:30</sys_updated_on>
+        <sys_updated_on>2018-09-12 15:38:48</sys_updated_on>
         <title>PRM - Landing page - Quienes somos 4</title>
         <url/>
         <widget_parameters><![CDATA[{
 	"html": {
-		"value": "<h1 style=\"text-align: center;\">Pilares del Exito</h1>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"PRM-landing-pilares-exito.jpg\" alt=\"Pilares del Exito\" /></p>",
-		"displayValue": "<h1 style=\"text-align: center;\">Pilares del Exito</h1>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"PRM-landing-pilares-exito.jpg\" alt=\"Pilares del Exito\" /></p>"
+		"value": "<p><img style=\"width: 100%;\" src=\"PRM-landing-quienessomos-2.jpg\" alt=\"Nuestra misi&oacute;n\" /></p>\n<div class=\"container\">\n<div class=\"content\">\n<h1>Pilares del exito</h1>\n<ul>\n<li>Amplia gama de soluciones</li>\n<li>Facilidad de hacer negocios</li>\n<li>Planes de compensaci&oacute;n justos y competitivos</li>\n<li>Apoyo corporativo a los canales de socios</li>\n</ul>\n</div>\n</div>",
+		"displayValue": "<p><img style=\"width: 100%;\" src=\"PRM-landing-quienessomos-2.jpg\" alt=\"Nuestra misi&oacute;n\" /></p>\n<div class=\"container\">\n<div class=\"content\">\n<h1>Pilares del exito</h1>\n<ul>\n<li>Amplia gama de soluciones</li>\n<li>Facilidad de hacer negocios</li>\n<li>Planes de compensaci&oacute;n justos y competitivos</li>\n<li>Apoyo corporativo a los canales de socios</li>\n</ul>\n</div>\n</div>"
 	}
 }]]></widget_parameters>
     </sp_instance>

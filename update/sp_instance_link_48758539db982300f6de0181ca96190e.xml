@@ -14,7 +14,7 @@
         <roles/>
         <sc_cat_item/>
         <sc_category/>
-        <short_description>Agente Comisionista es un socio de AT&amp;T dedicado a la prospección conjunta de oportunidades de negocio, canalizandolas con el area de ventas AT&amp;T para el cierre del negocio.</short_description>
+        <short_description>Socio dedicado a la prospección y desarrollo de oportunidades de negocio en colaboración con la fuerza de ventas de AT&amp;T.</short_description>
         <size>md</size>
         <sp_column display_value="1">18e0c975db982300f6de0181ca961912</sp_column>
         <sp_page/>
@@ -23,14 +23,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-09-02 20:24:35</sys_created_on>
         <sys_id>48758539db982300f6de0181ca96190e</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Agente comisionista</sys_name>
         <sys_package display_value="Partner relationship management" source="x_attme_prm">c7f06ca3dba3170061850a45ca9619b7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Partner relationship management">c7f06ca3dba3170061850a45ca9619b7</sys_scope>
         <sys_update_name>sp_instance_link_48758539db982300f6de0181ca96190e</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-09-02 20:34:16</sys_updated_on>
+        <sys_updated_on>2018-09-12 15:06:01</sys_updated_on>
         <title>Agente comisionista</title>
         <type>page</type>
         <url/>

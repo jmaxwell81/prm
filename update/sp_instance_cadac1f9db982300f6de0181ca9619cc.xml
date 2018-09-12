@@ -17,20 +17,20 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-09-02 20:48:13</sys_created_on>
         <sys_id>cadac1f9db982300f6de0181ca9619cc</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_name>PRM - Landing page - Beneficios para nuestros socios</sys_name>
         <sys_package display_value="Partner relationship management" source="x_attme_prm">c7f06ca3dba3170061850a45ca9619b7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Partner relationship management">c7f06ca3dba3170061850a45ca9619b7</sys_scope>
         <sys_update_name>sp_instance_cadac1f9db982300f6de0181ca9619cc</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-09-03 17:11:08</sys_updated_on>
+        <sys_updated_on>2018-09-12 15:17:14</sys_updated_on>
         <title>PRM - Landing page - Beneficios para nuestros socios</title>
         <url/>
         <widget_parameters><![CDATA[{
 	"html": {
-		"value": "<p>&nbsp;</p>\n<h2 style=\"text-align: center;\"><strong>Beneficios para nuestros socios</strong></h2>\n<hr align=\"center\" width=\"100%\" />\n<p style=\"padding-left: 120px;\"><br />&bull; Poder de la Marca AT&amp;T, &ldquo;Powered By&rdquo;<br />&bull; M&uacute;sculo financiero<br />&bull; Conocimiento Experto<br />&bull; Ecosistema de socios y soluciones<br />&bull; Atenci&oacute;n Especializada<br />&bull; Acceso al Centro de Experiencia<br />&bull; Innovaci&oacute;n con el Foundry<br />&bull; Programa de beneficios<br />&bull; VIP Networking: Invitaciones a Eventos Patrocinados por AT&amp;T<br />&bull; Canales de distribuci&oacute;n</p>\n<p>&nbsp;</p>",
-		"displayValue": "<p>&nbsp;</p>\n<h2 style=\"text-align: center;\"><strong>Beneficios para nuestros socios</strong></h2>\n<hr align=\"center\" width=\"100%\" />\n<p style=\"padding-left: 120px;\"><br />&bull; Poder de la Marca AT&amp;T, &ldquo;Powered By&rdquo;<br />&bull; M&uacute;sculo financiero<br />&bull; Conocimiento Experto<br />&bull; Ecosistema de socios y soluciones<br />&bull; Atenci&oacute;n Especializada<br />&bull; Acceso al Centro de Experiencia<br />&bull; Innovaci&oacute;n con el Foundry<br />&bull; Programa de beneficios<br />&bull; VIP Networking: Invitaciones a Eventos Patrocinados por AT&amp;T<br />&bull; Canales de distribuci&oacute;n</p>\n<p>&nbsp;</p>"
+		"value": "<p>&nbsp;</p>\n<h2 style=\"text-align: center;\"><strong>Beneficios para nuestros socios</strong></h2>\n<hr align=\"center\" width=\"100%\" />\n<p style=\"padding-left: 180px;\"><br />&bull;&nbsp;Oportunidades de mayores ingresos y un portafolio de nuevos negocios<br />&bull; El poder de la marca y la red de AT&amp;T<br />&bull; M&uacute;sculo financiero<br />&bull; Conocimiento Experto<br />&bull; Ecosistema de socios y soluciones<br />&bull; Atenci&oacute;n Especializada<br />&bull; Acceso al Centro de Experiencia de aT&amp;T para tus clientes<br />&bull; Innovaci&oacute;n con el Foundry+, primer centro de innovaci&oacute;n en LATAM<br />&bull; Programa de privilegios para socios<br />&bull; VIP Networking: Invitaciones a Eventos Patrocinados por AT&amp;T<br />&bull; Canales de distribuci&oacute;n de AT&amp;T para tus productos</p>\n<p>&nbsp;</p>",
+		"displayValue": "<p>&nbsp;</p>\n<h2 style=\"text-align: center;\"><strong>Beneficios para nuestros socios</strong></h2>\n<hr align=\"center\" width=\"100%\" />\n<p style=\"padding-left: 180px;\"><br />&bull;&nbsp;Oportunidades de mayores ingresos y un portafolio de nuevos negocios<br />&bull; El poder de la marca y la red de AT&amp;T<br />&bull; M&uacute;sculo financiero<br />&bull; Conocimiento Experto<br />&bull; Ecosistema de socios y soluciones<br />&bull; Atenci&oacute;n Especializada<br />&bull; Acceso al Centro de Experiencia de aT&amp;T para tus clientes<br />&bull; Innovaci&oacute;n con el Foundry+, primer centro de innovaci&oacute;n en LATAM<br />&bull; Programa de privilegios para socios<br />&bull; VIP Networking: Invitaciones a Eventos Patrocinados por AT&amp;T<br />&bull; Canales de distribuci&oacute;n de AT&amp;T para tus productos</p>\n<p>&nbsp;</p>"
 	}
 }]]></widget_parameters>
     </sp_instance>

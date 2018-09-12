@@ -14,7 +14,7 @@
         <roles/>
         <sc_cat_item/>
         <sc_category/>
-        <short_description>Integrador es un socio de AT&amp;T quien cuenta con un portafolio robusto de soluciones propias, complementandolas con la conec&lt;vidad o devices de AT&amp;T para cumplir con el proposito de la funcionalidad de su solucion.</short_description>
+        <short_description>Socio quien cuenta con un portafolio de soluciones propias, y en conjunto con la conectividad, plataformas o dispositivos de AT&amp;T ofrece soluciones integrales a sus clientes.</short_description>
         <size>md</size>
         <sp_column display_value="2">5ce0c975db982300f6de0181ca961913</sp_column>
         <sp_page/>
@@ -23,14 +23,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-09-02 20:34:16</sys_created_on>
         <sys_id>a5a7c579db982300f6de0181ca9619d6</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Integrador</sys_name>
         <sys_package display_value="Partner relationship management" source="x_attme_prm">c7f06ca3dba3170061850a45ca9619b7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Partner relationship management">c7f06ca3dba3170061850a45ca9619b7</sys_scope>
         <sys_update_name>sp_instance_link_a5a7c579db982300f6de0181ca9619d6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-09-02 20:34:59</sys_updated_on>
+        <sys_updated_on>2018-09-12 15:08:24</sys_updated_on>
         <title>Integrador</title>
         <type>page</type>
         <url/>

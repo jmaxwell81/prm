@@ -4,7 +4,23 @@
         <active>true</active>
         <class_name/>
         <color>default</color>
-        <css/>
+        <css>.text {&#13;
+ display: block;&#13;
+ color:white; &#13;
+}&#13;
+&#13;
+/* Boton con liga para ser partner */&#13;
+.btn {&#13;
+    display: block;&#13;
+    background-color: #FFFFFF;&#13;
+    color: #179ed7;&#13;
+    font-size: 16px;&#13;
+    padding: 12px 24px;&#13;
+    border: none;&#13;
+    cursor: pointer;&#13;
+    border-radius: 8px;&#13;
+    text-align: center;&#13;
+}</css>
         <glyph/>
         <id/>
         <order>0</order>
@@ -17,20 +33,20 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-09-03 17:18:53</sys_created_on>
         <sys_id>1184e106db906300f6de0181ca9619c6</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>PRM - landing page - footer espacio 1</sys_name>
         <sys_package display_value="Partner relationship management" source="x_attme_prm">c7f06ca3dba3170061850a45ca9619b7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Partner relationship management">c7f06ca3dba3170061850a45ca9619b7</sys_scope>
         <sys_update_name>sp_instance_1184e106db906300f6de0181ca9619c6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-09-03 17:39:33</sys_updated_on>
+        <sys_updated_on>2018-09-12 15:28:29</sys_updated_on>
         <title>PRM - landing page - footer espacio 1</title>
         <url/>
         <widget_parameters><![CDATA[{
 	"html": {
-		"value": "<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
-		"displayValue": "<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
+		"value": "<div class=\"text\">\n<h2>Contactanos</h2>\n</div>\n<div><button class=\"btn\">Enviar email</button></div>\n<p>&nbsp;</p>",
+		"displayValue": "<div class=\"text\">\n<h2>Contactanos</h2>\n</div>\n<div><button class=\"btn\">Enviar email</button></div>\n<p>&nbsp;</p>"
 	}
 }]]></widget_parameters>
     </sp_instance>
