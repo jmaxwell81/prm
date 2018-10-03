@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_css_include">
+    <sp_css_include action="INSERT_OR_UPDATE">
+        <name>JQuery</name>
+        <source>url</source>
+        <sp_css/>
+        <sys_class_name>sp_css_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-13 19:23:01</sys_created_on>
+        <sys_id>93b02d15db6c6300f6de0181ca961964</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>JQuery</sys_name>
+        <sys_package display_value="Partner relationship management" source="x_attme_prm">c7f06ca3dba3170061850a45ca9619b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Partner relationship management">c7f06ca3dba3170061850a45ca9619b7</sys_scope>
+        <sys_update_name>sp_css_include_93b02d15db6c6300f6de0181ca961964</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-13 19:23:01</sys_updated_on>
+        <url>https://code.jquery.com/jquery-1.12.4.min.js</url>
+    </sp_css_include>
+</record_update>

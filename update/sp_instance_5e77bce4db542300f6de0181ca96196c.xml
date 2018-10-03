@@ -4,15 +4,7 @@
         <active>true</active>
         <class_name/>
         <color>default</color>
-        <css>/* Bloque de texto*/&#13;
-.text-block {&#13;
-     &#13;
-    background-color: #00afe2;&#13;
-    color: white;&#13;
-    border-radius: 5px;&#13;
-    padding-left: 20px;&#13;
-    padding-right: 20px;&#13;
-}&#13;
+        <css>&#13;
 </css>
         <glyph/>
         <id/>
@@ -26,20 +18,20 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-08-29 22:11:11</sys_created_on>
         <sys_id>5e77bce4db542300f6de0181ca96196c</sys_id>
-        <sys_mod_count>37</sys_mod_count>
-        <sys_name>PRM - Landing page - Quienes somos 3</sys_name>
+        <sys_mod_count>41</sys_mod_count>
+        <sys_name>PRM - Landing page - Quienes somos 2</sys_name>
         <sys_package display_value="Partner relationship management" source="x_attme_prm">c7f06ca3dba3170061850a45ca9619b7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Partner relationship management">c7f06ca3dba3170061850a45ca9619b7</sys_scope>
         <sys_update_name>sp_instance_5e77bce4db542300f6de0181ca96196c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-09-12 14:24:32</sys_updated_on>
-        <title>PRM - Landing page - Quienes somos 3</title>
+        <sys_updated_on>2018-09-27 16:46:02</sys_updated_on>
+        <title>PRM - Landing page - Quienes somos 2</title>
         <url/>
         <widget_parameters><![CDATA[{
 	"html": {
-		"value": "<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
-		"displayValue": "<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
+		"value": "<p><img style=\"width: 100%;\" src=\"PRM-landing-quienessomos-2.jpg\" alt=\"Nuestra misi&oacute;n\" /></p>",
+		"displayValue": "<p><img style=\"width: 100%;\" src=\"PRM-landing-quienessomos-2.jpg\" alt=\"Nuestra misi&oacute;n\" /></p>"
 	}
 }]]></widget_parameters>
     </sp_instance>

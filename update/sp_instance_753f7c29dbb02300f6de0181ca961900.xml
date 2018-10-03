@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>0</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">2d2f3c29dbb02300f6de0181ca96190e</sp_column>
+        <sp_widget display_value="HTML">8679ef89cb21120000f8d856634c9c4f</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-26 21:50:19</sys_created_on>
+        <sys_id>753f7c29dbb02300f6de0181ca961900</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Partner relationship management" source="x_attme_prm">c7f06ca3dba3170061850a45ca9619b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Partner relationship management">c7f06ca3dba3170061850a45ca9619b7</sys_scope>
+        <sys_update_name>sp_instance_753f7c29dbb02300f6de0181ca961900</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-27 16:45:40</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"html": {
+		"value": "<p>&bull; Acceso al Centro de Experiencia de aT&amp;T para tus clientes<br />&bull; Innovaci&oacute;n con el Foundry+, primer centro de innovaci&oacute;n en LATAM<br />&bull; Programa de privilegios para socios<br />&bull; VIP Networking: Invitaciones a Eventos Patrocinados por AT&amp;T<br />&bull; Canales de distribuci&oacute;n de AT&amp;T para tus productos</p>\n<p><br /> </p>",
+		"displayValue": "<p>&bull; Acceso al Centro de Experiencia de aT&amp;T para tus clientes<br />&bull; Innovaci&oacute;n con el Foundry+, primer centro de innovaci&oacute;n en LATAM<br />&bull; Programa de privilegios para socios<br />&bull; VIP Networking: Invitaciones a Eventos Patrocinados por AT&amp;T<br />&bull; Canales de distribuci&oacute;n de AT&amp;T para tus productos</p>\n<p><br /> </p>"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=753f7c29dbb02300f6de0181ca961900"/>
+</record_update>

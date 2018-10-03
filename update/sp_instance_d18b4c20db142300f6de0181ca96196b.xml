@@ -13,12 +13,12 @@
 .text-block {&#13;
     position: absolute;&#13;
     bottom: 150px;&#13;
-    left: 100px;&#13;
-    background-color: #00afe2;&#13;
+    left: 10%;&#13;
+    background-color: #1181ff;&#13;
     color: white;&#13;
     border-radius: 8px;&#13;
     padding-top: 15px;&#13;
-    padding-left: 20px;&#13;
+    padding-left: 25px;&#13;
     padding-right: 70px;&#13;
     padding-bottom: 15px;&#13;
 }&#13;
@@ -27,20 +27,23 @@
 .container .btn {&#13;
     position: absolute;&#13;
     bottom: 95px;&#13;
-    left: 100px;&#13;
-    background-color: #555;&#13;
-    color: white;&#13;
+    left: 10%;&#13;
+    background-color: white;&#13;
+    font-family: "ATTAleckSans_Md";&#13;
+    color: #1181ff;&#13;
     font-size: 16px;&#13;
     padding: 12px 24px;&#13;
     border: none;&#13;
     cursor: pointer;&#13;
-    border-radius: 8px;&#13;
+    border-radius: 25px;&#13;
     text-align: center;&#13;
 }&#13;
 &#13;
 /* Estilo del boton cuando se pasa el mouse */&#13;
 .container .btn:hover {&#13;
     background-color: black;&#13;
+    border:1px solid white;&#13;
+    color: white;&#13;
 }</css>
         <glyph/>
         <id/>
@@ -54,20 +57,20 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-08-29 18:59:08</sys_created_on>
         <sys_id>d18b4c20db142300f6de0181ca96196b</sys_id>
-        <sys_mod_count>91</sys_mod_count>
+        <sys_mod_count>119</sys_mod_count>
         <sys_name>PRM - Landing page - Hero image</sys_name>
         <sys_package display_value="Partner relationship management" source="x_attme_prm">c7f06ca3dba3170061850a45ca9619b7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Partner relationship management">c7f06ca3dba3170061850a45ca9619b7</sys_scope>
         <sys_update_name>sp_instance_d18b4c20db142300f6de0181ca96196b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-09-12 14:20:29</sys_updated_on>
+        <sys_updated_on>2018-09-26 23:07:30</sys_updated_on>
         <title>PRM - Landing page - Hero image</title>
         <url/>
         <widget_parameters><![CDATA[{
 	"html": {
-		"value": "<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<div class=\"container\">\n<div class=\"text-block\">\n<h1><strong>Crea el futuro</strong></h1>\n<h5>Un programa &aacute;gil de canales con socios creado para ti</h5>\n</div>\n<div><button class=\"btn\">Programas de socio</button></div>\n</div>",
-		"displayValue": "<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<div class=\"container\">\n<div class=\"text-block\">\n<h1><strong>Crea el futuro</strong></h1>\n<h5>Un programa &aacute;gil de canales con socios creado para ti</h5>\n</div>\n<div><button class=\"btn\">Programas de socio</button></div>\n</div>"
+		"value": "<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<div class=\"container\">\n<div class=\"text-block\"><span style=\"font-size: 45px;\">Crea el futuro</span> <br /> <span style=\"font-size: 15px;\">Un programa &aacute;gil de canales con socios creado para ti</span></div>\n<div><button class=\"btn\">Programas de socio</button></div>\n</div>",
+		"displayValue": "<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<div class=\"container\">\n<div class=\"text-block\"><span style=\"font-size: 45px;\">Crea el futuro</span> <br /> <span style=\"font-size: 15px;\">Un programa &aacute;gil de canales con socios creado para ti</span></div>\n<div><button class=\"btn\">Programas de socio</button></div>\n</div>"
 	}
 }]]></widget_parameters>
     </sp_instance>

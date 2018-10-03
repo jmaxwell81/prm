@@ -13,7 +13,7 @@
 .btn {&#13;
     display: block;&#13;
     background-color: #FFFFFF;&#13;
-    color: #179ed7;&#13;
+    color: #0568AE;&#13;
     font-size: 16px;&#13;
     padding: 12px 24px;&#13;
     border: none;&#13;
@@ -33,14 +33,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-09-03 17:18:56</sys_created_on>
         <sys_id>92842506db906300f6de0181ca961930</sys_id>
-        <sys_mod_count>15</sys_mod_count>
+        <sys_mod_count>16</sys_mod_count>
         <sys_name>PRM - landing page - footer espacio 2</sys_name>
         <sys_package display_value="Partner relationship management" source="x_attme_prm">c7f06ca3dba3170061850a45ca9619b7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Partner relationship management">c7f06ca3dba3170061850a45ca9619b7</sys_scope>
         <sys_update_name>sp_instance_92842506db906300f6de0181ca961930</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-09-03 17:45:26</sys_updated_on>
+        <sys_updated_on>2018-09-26 22:44:39</sys_updated_on>
         <title>PRM - landing page - footer espacio 2</title>
         <url/>
         <widget_parameters><![CDATA[{
