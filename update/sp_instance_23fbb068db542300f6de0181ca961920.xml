@@ -30,20 +30,20 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-08-29 22:30:56</sys_created_on>
         <sys_id>23fbb068db542300f6de0181ca961920</sys_id>
-        <sys_mod_count>26</sys_mod_count>
+        <sys_mod_count>27</sys_mod_count>
         <sys_name>PRM - Landing page - Imagen quienes somos 2</sys_name>
         <sys_package display_value="Partner relationship management" source="x_attme_prm">c7f06ca3dba3170061850a45ca9619b7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Partner relationship management">c7f06ca3dba3170061850a45ca9619b7</sys_scope>
         <sys_update_name>sp_instance_23fbb068db542300f6de0181ca961920</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-10-02 22:51:38</sys_updated_on>
+        <sys_updated_on>2018-10-03 15:33:47</sys_updated_on>
         <title>PRM - Landing page - Imagen quienes somos 2</title>
         <url/>
         <widget_parameters><![CDATA[{
 	"html": {
-		"value": "<div class=\"container\"><div class=\"text-block-3\"><p style=\"color: #179ed7; font-family: 'ATTAleckSans_Bd'; font-size: 40px;\">Pilares del &eacute;xito</p>\n<ul>\n<li>Amplia gama de soluciones</li>\n<li>Facilidad de hacer negocios</li>\n<li>Planes de compensaci&oacute;n justos y competitivos</li>\n<li>Apoyo corporativo a los canales de socios</li>\n</ul>\n</div></div>",
-		"displayValue": "<div class=\"container\"><div class=\"text-block-3\"><p style=\"color: #179ed7; font-family: 'ATTAleckSans_Bd'; font-size: 40px;\">Pilares del &eacute;xito</p>\n<ul>\n<li>Amplia gama de soluciones</li>\n<li>Facilidad de hacer negocios</li>\n<li>Planes de compensaci&oacute;n justos y competitivos</li>\n<li>Apoyo corporativo a los canales de socios</li>\n</ul>\n</div></div>"
+		"value": "<div class=\"container\">\n<div class=\"text-block-3\">\n<p style=\"color: #179ed7; font-family: 'ATTAleckSans_Md'; font-size: 35px;\">Pilares del &eacute;xito</p>\n<ul>\n<li>Amplia gama de soluciones</li>\n<li>Facilidad de hacer negocios</li>\n<li>Planes de compensaci&oacute;n justos y competitivos</li>\n<li>Apoyo corporativo a los canales de socios</li>\n</ul>\n</div>\n</div>",
+		"displayValue": "<div class=\"container\">\n<div class=\"text-block-3\">\n<p style=\"color: #179ed7; font-family: 'ATTAleckSans_Md'; font-size: 35px;\">Pilares del &eacute;xito</p>\n<ul>\n<li>Amplia gama de soluciones</li>\n<li>Facilidad de hacer negocios</li>\n<li>Planes de compensaci&oacute;n justos y competitivos</li>\n<li>Apoyo corporativo a los canales de socios</li>\n</ul>\n</div>\n</div>"
 	}
 }]]></widget_parameters>
     </sp_instance>
