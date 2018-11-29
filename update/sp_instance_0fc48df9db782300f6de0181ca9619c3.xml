@@ -17,20 +17,20 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-09-27 16:53:11</sys_created_on>
         <sys_id>0fc48df9db782300f6de0181ca9619c3</sys_id>
-        <sys_mod_count>9</sys_mod_count>
+        <sys_mod_count>31</sys_mod_count>
         <sys_name>PRM - Landing page - Quienes somos 1</sys_name>
         <sys_package display_value="Partner relationship management" source="x_attme_prm">c7f06ca3dba3170061850a45ca9619b7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Partner relationship management">c7f06ca3dba3170061850a45ca9619b7</sys_scope>
         <sys_update_name>sp_instance_0fc48df9db782300f6de0181ca9619c3</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-10-02 16:19:30</sys_updated_on>
+        <sys_updated_on>2018-11-29 23:40:17</sys_updated_on>
         <title>PRM - Landing page - Quienes somos 1</title>
         <url/>
         <widget_parameters><![CDATA[{
 	"html": {
-		"value": "<p><img style=\"max-width: 100%; max-height: 480px;\" src=\"PRM-landing-quienessomos-1.jpg\" /></p>",
-		"displayValue": "<p><img style=\"max-width: 100%; max-height: 480px;\" src=\"PRM-landing-quienessomos-1.jpg\" /></p>"
+		"value": "<p><img style=\"max-width: 100%; height: auto;\" src=\"PRM-landing-nuestra-mision.jpg\" /></p>",
+		"displayValue": "<p><img style=\"max-width: 100%; height: auto;\" src=\"PRM-landing-nuestra-mision.jpg\" /></p>"
 	}
 }]]></widget_parameters>
     </sp_instance>
