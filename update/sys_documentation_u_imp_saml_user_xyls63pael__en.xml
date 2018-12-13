@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Imp Saml User Xyls63pael" language="en" table="u_imp_saml_user_xyls63pael">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Imp Saml User Xyls63pael</label>
+            <language>en</language>
+            <name>u_imp_saml_user_xyls63pael</name>
+            <plural>Imp Saml User Xyls63paels</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-12 23:04:27</sys_created_on>
+            <sys_id>ea92f99adbd22300f6de0181ca961975</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Imp Saml User Xyls63pael</sys_name>
+            <sys_package display_value="Partner relationship management" source="x_attme_prm">c7f06ca3dba3170061850a45ca9619b7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Partner relationship management">c7f06ca3dba3170061850a45ca9619b7</sys_scope>
+            <sys_update_name>sys_documentation_u_imp_saml_user_xyls63pael__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-12 23:04:27</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
